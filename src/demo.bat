@@ -1,0 +1,1 @@
+"C:\Program Files\Blender Foundation\Blender 4.2\blender.exe" asset00.blend -b -P reliance_checker.py
